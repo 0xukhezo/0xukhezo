@@ -37,4 +37,4 @@ Let's build something together.
 
 ---
 
-#### 📫 Reach me through [@0xUkhezo](https://twitter.com/0xukhezo) or [@UkhezoATR](https://t.me/@ATeranR).
+#### 📫 Reach me through [@0xUkhezo](https://twitter.com/0xukhezo) or [@ATeranR](https://t.me/@ATeranR).
