@@ -6,7 +6,7 @@
 Let's build something together.
 
 ### My interests 🚀
-<h4> Web3 • Finance • DAOs   <h4/>
+<h4> Web3 • Fintech • DAOs • Investor • DEFI 2.0 • NFT    <h4/>
  
 ### My tech stack 🏗️
 
