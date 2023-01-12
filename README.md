@@ -13,10 +13,10 @@ Let's build something together.
 #### Classics that never die
 <p>
   <img src="https://img.shields.io/badge/Javascript-f7e01d?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/CSS-2a65f0?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/HTML-f16528?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/Typescript-2a65f0?style=for-the-badge&logo=typescript&logoColor=white" />
   <img src="https://img.shields.io/badge/Redux-7648ba?style=for-the-badge&logo=redux&logoColor=black" />
   <img src="https://img.shields.io/badge/GitHub_Actions-F05032?style=for-the-badge&logo=github-actions&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS-2a65f0?style=for-the-badge&logo=css3&logoColor=white" />
 <p/>
 
 #### Daily drivers
